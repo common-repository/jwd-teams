@@ -1,0 +1,30 @@
+/**
+ * JWD Teams PRO ** Style for MCE Button **
+ *
+ */
+/* Typography */
+/* Colors */
+/* Screen Sizes */
+/* Other */
+/* Target IE11 Only */
+/* Box Shadow */
+/* Transition */
+/* Hover */
+/* Placeholder */
+/* Display */
+/* Transform */
+/* Scroll Bar */
+/* JWD Teams
+ * Team Plugin Style for MCE Button
+ *
+ */
+i.mce-i-jwdtm-icon {
+  font: 400 20px/1 dashicons;
+  padding: 0;
+  vertical-align: top;
+  speak: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-left: -2px;
+  padding-right: 2px;
+  color: #02b5a5 !important; }

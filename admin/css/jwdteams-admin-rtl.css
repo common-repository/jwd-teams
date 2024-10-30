@@ -1,0 +1,64 @@
+/**
+ * JWD Teams PRO ** Admin Side Stylesheet **
+ *
+ */
+/* Typography */
+/* Colors */
+/* Screen Sizes */
+/* Other */
+/* Target IE11 Only */
+/* Box Shadow */
+/* Transition */
+/* Hover */
+/* Placeholder */
+/* Display */
+/* Transform */
+/* Scroll Bar */
+.jt__teams-img {
+  padding-left: 2em;
+  padding-right: 0; }
+
+.jt__teams-details, .jt__teams-socials {
+  padding-right: 0; }
+  @media screen and (min-width: 80em) {
+    .jt__teams-details, .jt__teams-socials {
+      padding-left: 1em; } }
+  @media screen and (min-width: 90em) {
+    .jt__teams-details, .jt__teams-socials {
+      padding-left: 2em; } }
+  .jt__teams-details li, .jt__teams-socials li {
+    padding-left: 0; }
+  .jt__teams-details .fa, .jt__teams-socials .fa {
+    margin-left: .5em;
+    margin-right: 0; }
+
+.jt__switch-field label {
+  float: right; }
+  .jt__switch-field label:last-of-type, .jt__switch-field label:first-of-type {
+    border-radius: 0 !important; }
+
+.jt__remove {
+  left: .4em;
+  right: auto; }
+  .jt__removeimg {
+    float: left; }
+
+.jt__rating-right {
+  text-align: left;
+  float: left;
+  background-position: 0 50%;
+  padding-right: 0;
+  padding-left: 7%; }
+  @media screen and (min-width: 64em) {
+    .jt__rating-right {
+      padding-left: 6%; } }
+  @media screen and (min-width: 80em) {
+    .jt__rating-right {
+      padding-left: 5%; } }
+  @media screen and (min-width: 100em) {
+    .jt__rating-right {
+      padding-left: 3%; } }
+
+.post-type-jwd_team #submitdiv h2.hndle::before {
+  margin-left: .875em;
+  margin-right: 0; }

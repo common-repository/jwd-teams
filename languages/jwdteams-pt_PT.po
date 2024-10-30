@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JWD_Teams\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: pt_PT\n"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Choose Member Image"
+msgstr "Escolha a Imagem do Membro"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Use This Image"
+msgstr "Usar Esta Imagem"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Are you sure you want to REMOVE this item?"
+msgstr "Tem certeza de que deseja REMOVER este item?"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Are you sure you want to RESET all settings for this team to the default values?"
+msgstr "Tem a certeza de que pretende REPOR todas as definições desta equipa para os valores predefinidos?"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "<b>The settings are now restored to default.</b> Please UPDATE this team to apply the default settings!"
+msgstr "<b>As configurações agora são restauradas para o padrão.</b> ATUALIZE esta equipe para aplicar as configurações padrão!"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "There are no Team Showcases registered yet!<br />Please go to %s to add your first Team Showcase."
+msgstr "Não há Vitrinas da Equipa registadas ainda!<br />Acesse %s para adicionar sua primeira demonstração de equipe."
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Select Team"
+msgstr "Selecione a Equipe"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Add Team"
+msgstr "Adicionar Equipe"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Team Members"
+msgstr "Membros da Equipe"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Team Settings"
+msgstr "Configurações da Equipe"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Team Custom CSS"
+msgstr "CSS Personalizado da Equipe"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Add Member"
+msgstr "Adicionar Membro"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Use this shortcode above to display this team in any post or page."
+msgstr "Use este código abaixo para exibir esta equipe em qualquer post ou página."
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Settings"
+msgstr "Configurações"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Colors"
+msgstr "Cores"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Sizes"
+msgstr "Tamanhos"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Layout format"
+msgstr "Formato do Esboço"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Grid"
+msgstr "Grade"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "items per row"
+msgstr "itens por linha"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Image Shape"
+msgstr "Forma da Imagem"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Display description as"
+msgstr "Exibir descrição como"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Text align"
+msgstr "Alinhamento de texto"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Other settings"
+msgstr "Outros ajustes"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Name"
+msgstr "Nome"
+
+# @ /admin/class-jwdteams-admin.php
+# @ /admin/partials/class-admin-hooks.php
+msgid "Position"
+msgstr "Posição"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Phone & Email"
+msgstr "Telefone & E-mail"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Social Icons"
+msgstr "Ícones Sociais"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Social Icons Hover"
+msgstr "Hover para Ícones Sociais"
+
+# @ /admin/class-jwdteams-admin.php
+# @ /admin/partials/class-admin-hooks.php
+msgid "Description"
+msgstr "Descrição"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Tooltip Text"
+msgstr "Texto de dica de ferramenta"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Tooltip Text Background"
+msgstr "Fundo de texto de dica de ferramenta"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Tooltip Title"
+msgstr "Título da dica de ferramenta"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Tooltip Title Background"
+msgstr "Fundo do título da dica de ferramenta"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Use square shaped image larger than 200px."
+msgstr "Use uma imagem quadrada maior que 200px."
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Description Length"
+msgstr "Comprimento da Descrição"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "characters"
+msgstr "letras"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Restore to Default"
+msgstr "Restaurar para o Padrão"
+
+# @ /admin/class-jwdteams-admin.php
+# @ /includes/class-jwdteams-hooks.php
+# @ /public/class-jwdteams-public.php
+msgid "Powered by"
+msgstr "Distribuído por"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Get Started"
+msgstr "Iniciar"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "New Member"
+msgstr "Novo Membro"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Delete this member"
+msgstr "Excluir este membro"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Remove"
+msgstr "Remover"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Full Name"
+msgstr "Nome Completo"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Phone"
+msgstr "Telefone"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Email"
+msgstr "E-mail"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Leave any field empty if you don&#39;t want to display it."
+msgstr "Deixe qualquer campo vazio se você não quiser exibi-lo."
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Add Image"
+msgstr "Adicionar imagem"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Delete Image"
+msgstr "Excluir imagem"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "If you like our plugin"
+msgstr "Se você gostar do nosso plugin"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Don't forget to rate"
+msgstr "Não se esqueça de avaliar"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Thank you!"
+msgstr "Obrigado!"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "It helps us to become better for you!"
+msgstr "Isso nos ajuda a nos tornarmos melhores para você!"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Please DO NOT include %s tag!"
+msgstr "Por favor, NÃO inclua a tag %s !"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Use %1$s or %2$s to target this team."
+msgstr "Utilizar %1$s ou %2$s para segmentar essa equipe."
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Example:"
+msgstr "Exemplo:"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Vertical"
+msgstr "Vertical"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Horizontal"
+msgstr "Horizontal"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "One per row"
+msgstr "Um por linha"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Two per row"
+msgstr "Dois por linha"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Three per row"
+msgstr "Três por linha"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Four per row"
+msgstr "Quatro por linha"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Five per row"
+msgstr "Cinco por linha"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Disc"
+msgstr "Disco"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Square"
+msgstr "Quadrado"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "List item"
+msgstr "Elemento de lista"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Tooltip"
+msgstr "Dica de ferramenta"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Align left"
+msgstr "Alinhar à esquerda"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Align center"
+msgstr "Alinhar centro"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Align right"
+msgstr "Alinhar à direita"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Justify Description"
+msgstr "Justify Descrição"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Read More"
+msgstr "Consulte Mais"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Deactivate %s"
+msgstr "Desativar %s"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Hide Icons"
+msgstr "Ocultar os ícones"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Change label text"
+msgstr "Alterar o texto do rótulo"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Hide Team Title"
+msgstr "Esconder o Título da Equipe"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Hide %s"
+msgstr "Esconder %s"
+
+# @ /public/class-jwdteams-public.php
+msgid "Sorry! No team registered with this ID: %s"
+msgstr "Desculpa! Nenhuma equipa registada com este ID: %s"
+
+# @ /public/class-jwdteams-public.php
+msgid "Sorry! There are no members registered for this team."
+msgstr "Desculpa! Não há membros registrados para esta equipe."
+
+# @ /public/class-jwdteams-public.php
+msgid "<b>Error:</b> The ID parameter of <code>[jwd_team]</code> is missing!"
+msgstr "<b>Erro:</b> O parâmetro ID <code>[jwd_team]</code> está desaparecido!"

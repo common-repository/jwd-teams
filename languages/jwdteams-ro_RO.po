@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JWD_Teams\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"Last-Translator: \n"
+"Language: ro_RO\n"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Choose Member Image"
+msgstr "Alegeți Imaginea Membrului"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Use This Image"
+msgstr "Utilizați Această Imagine"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Are you sure you want to REMOVE this item?"
+msgstr "Sunteți sigur că doriți să ELIMINAȚI acest element?"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Are you sure you want to RESET all settings for this team to the default values?"
+msgstr "Sunteți sigur că doriți să RESETAȚI toate setările acestei echipe la valorile implicite?"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "<b>The settings are now restored to default.</b> Please UPDATE this team to apply the default settings!"
+msgstr "<b>Setările sunt acum restabilite la valorile implicite.</b> Vă rugăm să ACTUALIZAȚI această echipă pentru ca setările implicite sa fie aplicate!"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "There are no Team Showcases registered yet!<br />Please go to %s to add your first Team Showcase."
+msgstr "Nu există nici o echipă inregistrată!<br />Vă rugăm să mergeți la %s pentru a adăuga prima dvs. echipă."
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Select Team"
+msgstr "Selectează Echipa"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Add Team"
+msgstr "Adaugă Echipa"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Team Members"
+msgstr "Membrii Echipei"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Team Settings"
+msgstr "Setările Echipei"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Team Custom CSS"
+msgstr "Personalizare CSS"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Add Member"
+msgstr "Adaugă Membru"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Use this shortcode above to display this team in any post or page."
+msgstr "Utilizați acest shortcode de mai sus pentru a afișa această echipă în orice pagină sau articol."
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Settings"
+msgstr "Setări"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Colors"
+msgstr "Culori"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Sizes"
+msgstr "Dimensiuni"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Layout format"
+msgstr "Aspect"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Grid"
+msgstr "Grilă"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "items per row"
+msgstr "elemente pe rând"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Image Shape"
+msgstr "Forma Imaginii"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Display description as"
+msgstr "Afișează descrierea ca"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Text align"
+msgstr "Aliniere text"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Other settings"
+msgstr "Alte setari"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Name"
+msgstr "Nume"
+
+# @ /admin/class-jwdteams-admin.php
+# @ /admin/partials/class-admin-hooks.php
+msgid "Position"
+msgstr "Funcție"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Phone & Email"
+msgstr "Telefon si Email"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Social Icons"
+msgstr "Pictograme Sociale"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Social Icons Hover"
+msgstr "Hover Pictograme Sociale"
+
+# @ /admin/class-jwdteams-admin.php
+# @ /admin/partials/class-admin-hooks.php
+msgid "Description"
+msgstr "Descriere"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Tooltip Title"
+msgstr "Titlu Tooltip"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Tooltip Title Background"
+msgstr "Background Titlu Tooltip"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Tooltip Text"
+msgstr "Textul din Tooltip"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Tooltip Text Background"
+msgstr "Fundal Text Tooltip"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Use square shaped image larger than 200px."
+msgstr "Utilizați o imagine în formă de pătrat mai mare de 200px."
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Description Length"
+msgstr "Lungime Descriere"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "characters"
+msgstr "caractere"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Restore to Default"
+msgstr "Restabiliți la Implicit"
+
+# @ /admin/class-jwdteams-admin.php
+# @ /includes/class-jwdteams-hooks.php
+# @ /public/class-jwdteams-public.php
+msgid "Powered by"
+msgstr "Realizat de"
+
+# @ /admin/class-jwdteams-admin.php
+msgid "Get Started"
+msgstr "Începe"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "New Member"
+msgstr "Membru Nou"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Delete this member"
+msgstr "Şterge acest membru"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Remove"
+msgstr "Elimina"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Full Name"
+msgstr "Nume Complet"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Phone"
+msgstr "Telefon"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Email"
+msgstr "Email"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Leave any field empty if you don&#39;t want to display it."
+msgstr "Lăsați oricare câmp gol dacă nu doriți să îl afișați."
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Add Image"
+msgstr "Adaugă Imagine"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Delete Image"
+msgstr "Şterge Imaginea"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "If you like our plugin"
+msgstr "Dacă vă place plugin-ul nostru"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Don't forget to rate"
+msgstr "Nu uitați să evaluați"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Thank you!"
+msgstr "Vă mulțumim!"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "It helps us to become better for you!"
+msgstr "Ne ajută să devenim mai buni pentru dumneavoastră!"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Please DO NOT include %s tag!"
+msgstr "NU includeți tag-ul %s !"
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Use %1$s or %2$s to target this team."
+msgstr "Utilizaţi %1$s sau %2$s pentru a stiliaza această echipă."
+
+# @ /admin/partials/class-admin-hooks.php
+msgid "Example:"
+msgstr "Examplu:"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Vertical"
+msgstr "Vertical"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Horizontal"
+msgstr "Orizontal"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "One per row"
+msgstr "Unu pe rând"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Two per row"
+msgstr "Două pe rând"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Three per row"
+msgstr "Trei pe rând"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Four per row"
+msgstr "Patru pe rând"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Five per row"
+msgstr "Cinci pe rând"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Disc"
+msgstr "Rotundă"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Square"
+msgstr "Patrată"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "List item"
+msgstr "Element în listă"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Tooltip"
+msgstr "Tooltip"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Align left"
+msgstr "Aliniere la stânga"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Align center"
+msgstr "Aliniere la centru"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Align right"
+msgstr "Aliniere la dreapta"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Justify Description"
+msgstr "Descriere Justify"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Read More"
+msgstr "Continuare"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Deactivate %s"
+msgstr "Dezactivează %s"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Hide Icons"
+msgstr "Ascunde Pictogramele"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Change label text"
+msgstr "Schimbă textul etichetei"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Hide Team Title"
+msgstr "Ascunde Titlul Echipei"
+
+# @ /includes/class-jwdteams-hooks.php
+msgid "Hide %s"
+msgstr "Ascunde %s"
+
+# @ /public/class-jwdteams-public.php
+msgid "Sorry! No team registered with this ID: %s"
+msgstr "Ne pare rău! Nu există nici o echipă cu acest ID: %s"
+
+# @ /public/class-jwdteams-public.php
+msgid "Sorry! There are no members registered for this team."
+msgstr "Ne pare rău! Nu există membrii înregistrați pentru această echipă."
+
+# @ /public/class-jwdteams-public.php
+msgid "<b>Error:</b> The ID parameter of <code>[jwd_team]</code> is missing!"
+msgstr "<b>Eroare:</b> Lipsește parametrul ID pentru <code>[jwd_team]</code>!"
